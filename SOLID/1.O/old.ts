@@ -13,7 +13,7 @@ class Dog {
         return 'dog';
     }
 
-    get sound(){
+    get makeSound(){
         return 'Woef'
     }
 }
